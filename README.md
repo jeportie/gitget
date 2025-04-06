@@ -264,7 +264,7 @@ You are a professional MIT/Computer Scientist tasked with designing an enhanced 
 6. Architect the solution in a modular manner to support future extensions (e.g., additional Git hosts, editor integrations).
 7. Include a comprehensive testing strategy with unit, integration, and performance tests.
 
-Generate a detailed design document that includes the initial getgit command code base, a structured layout of new features, a step-by-step implementation strategy, and a comprehensive testing strategy.
+[USER PROMPT]
 ```
 
 ---
